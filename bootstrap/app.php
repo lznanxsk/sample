@@ -1,7 +1,6 @@
 <?php
 
-
-require __DIR__.'/helpers.php';//根据环境选择数据库
+require __DIR__.'/helper.php';//根据环境选择数据库
 
 
 /*
